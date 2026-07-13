@@ -1,0 +1,74 @@
+{
+  "n_fire_events_wc": 4669,
+  "n_ignitions_wc": 4644,
+  "record_start": "2012-01-20 00:00:00",
+  "record_end": "2026-03-31 00:00:00",
+  "severity_weight": 0.6,
+  "ndvi_weight": 0.4,
+  "sev_edges": [
+    0.29388271109962466,
+    1.160846471786499,
+    1.4001238107681275,
+    1.6093271017074586,
+    1.8992672681808473,
+    4.61942295892334
+  ],
+  "ndvi_edges": [
+    0.009998999776482583,
+    0.14000000059604645,
+    0.18000000715255737,
+    0.2200000137090683,
+    0.2800000011920929,
+    0.4800009892711639
+  ],
+  "municipalities": [
+    {
+      "adm2_name": "Central Karoo",
+      "area_sqkm": 38853.98880107,
+      "ignition_count": 176,
+      "severity_mean": 1.7975016480028647,
+      "composite_mean": 4.022405749957948,
+      "tier": "Highest"
+    },
+    {
+      "adm2_name": "Cape Winelands",
+      "area_sqkm": 21473.27427807,
+      "ignition_count": 916,
+      "severity_mean": 1.4931778083147185,
+      "composite_mean": 2.803876840046434,
+      "tier": "Highest"
+    },
+    {
+      "adm2_name": "West Coast",
+      "area_sqkm": 31118.67599955,
+      "ignition_count": 1443,
+      "severity_mean": 1.4327845054409056,
+      "composite_mean": 2.7570724091021517,
+      "tier": "Standard-plus"
+    },
+    {
+      "adm2_name": "Eden",
+      "area_sqkm": 23331.11508755,
+      "ignition_count": 996,
+      "severity_mean": 1.4692119986816854,
+      "composite_mean": 2.5188696748878923,
+      "tier": "Standard-plus"
+    },
+    {
+      "adm2_name": "Overberg",
+      "area_sqkm": 12239.47658344,
+      "ignition_count": 777,
+      "severity_mean": 1.434252968592039,
+      "composite_mean": 2.4395005483301633,
+      "tier": "Standard"
+    },
+    {
+      "adm2_name": "City of Cape Town",
+      "area_sqkm": 2445.67098176,
+      "ignition_count": 336,
+      "severity_mean": 1.0957610118136911,
+      "composite_mean": 1.7126267584273347,
+      "tier": "Standard"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "n_total_fire_events_wc": 4669,
+  "n_top": 50,
+  "smallest_in_top50_km2": 80.0,
+  "largest_km2": 537.4,
+  "biome_counts_in_top50": {
+    "Fynbos": 50
+  },
+  "high_risk_threshold": 3.0,
+  "n_agree_high_risk": 17,
+  "n_disagree_low_risk": 33,
+  "top10_table": [
+    {
+      "event_id": 121716,
+      "start_date": "2025-12-22",
+      "area_km2": 537.4,
+      "days_burned": 14,
+      "biome": "Fynbos",
+      "composite_risk_mean": 3.22,
+      "high_risk_agreement": true
+    },
+    {
+      "event_id": 121704,
+      "start_date": "2018-10-25",
+      "area_km2": 498.7,
+      "days_burned": 22,
+      "biome": "Fynbos",
+      "composite_risk_mean": 1.99,
+      "high_risk_agreement": false
+    },
+    {
+      "event_id": 121015,
+      "start_date": "2016-01-30",
+      "area_km2": 431.8,
+      "days_burned": 20,
+      "biome": "Fynbos",
+      "composite_risk_mean": 2.05,
+      "high_risk_agreement": false
+    },
+    {
+      "event_id": 121334,
+      "start_date": "2024-01-22",
+      "area_km2": 285.7,
+      "days_burned": 12,
+      "biome": "Fynbos",
+      "composite_risk_mean": 2.15,
+      "high_risk_agreement": false
+    },
+    {
+      "event_id": 41294,
+      "start_date": "2017-01-16 00:00:00",
+      "area_km2": 262.7,
+      "days_burned": 8,
+      "biome": "Fynbos",
+      "composite_risk_mean": 2.26,
+      "high_risk_agreement": false
+    },
+    {
+      "event_id": 121736,
+      "start_date": "2025-12-22",
+      "area_km2": 261.7,
+      "days_burned": 25,
+      "biome": "Fynbos",
+      "composite_risk_mean": 2.48,
+      "high_risk_agreement": false
+    },
+    {
+      "event_id": 121443,
+      "start_date": "2017-02-23",
+      "area_km2": 253.3,
+      "days_burned": 11,
+      "biome": "Fynbos",
+      "composite_risk_mean": 2.08,
+      "high_risk_agreement": false
+    },
+    {
+      "event_id": 41113,
+      "start_date": "2016-12-14 00:00:00",
+      "area_km2": 248.8,
+      "days_burned": 12,
+      "biome": "Fynbos",
+      "composite_risk_mean": 2.95,
+      "high_risk_agreement": false
+    },
+    {
+      "event_id": 121125,
+      "start_date": "2016-02-25",
+      "area_km2": 246.4,
+      "days_burned": 10,
+      "biome": "Fynbos",
+      "composite_risk_mean": 3.48,
+      "high_risk_agreement": true
+    },
+    {
+      "event_id": 120905,
+      "start_date": "2016-01-08",
+      "area_km2": 242.9,
+      "days_burned": 12,
+      "biome": "Fynbos",
+      "composite_risk_mean": 2.33,
+      "high_risk_agreement": false
+    }
+  ]
+}

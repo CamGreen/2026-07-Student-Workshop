@@ -1,0 +1,102 @@
+{
+  "n_ignitions_wc": 4644,
+  "n_ignitions_matched_to_biome": 4631,
+  "early_years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "late_years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "note_2026_excluded_from_rates": "2026 has only Jan-Mar data and is excluded from annualised rates",
+  "biomes": [
+    {
+      "biome": "Grassland",
+      "area_sqkm": 147.61967416053045,
+      "ignition_count": 13,
+      "severity_mean": 1.8417258138958934,
+      "early_count_2012_2019": 12,
+      "late_count_2020_2025": 1,
+      "early_rate_per_year": 1.5,
+      "late_rate_per_year": 0.2,
+      "pct_change": -88.9
+    },
+    {
+      "biome": "Nama-Karoo",
+      "area_sqkm": 27463.25552497056,
+      "ignition_count": 100,
+      "severity_mean": 1.8193145728720501,
+      "early_count_2012_2019": 80,
+      "late_count_2020_2025": 20,
+      "early_rate_per_year": 10.0,
+      "late_rate_per_year": 3.3,
+      "pct_change": -66.7
+    },
+    {
+      "biome": "Succulent Karoo",
+      "area_sqkm": 27812.42598582114,
+      "ignition_count": 74,
+      "severity_mean": 1.4976546462784155,
+      "early_count_2012_2019": 37,
+      "late_count_2020_2025": 33,
+      "early_rate_per_year": 4.6,
+      "late_rate_per_year": 5.5,
+      "pct_change": 18.9
+    },
+    {
+      "biome": "Fynbos",
+      "area_sqkm": 64899.936357236365,
+      "ignition_count": 4240,
+      "severity_mean": 1.4876167226084485,
+      "early_count_2012_2019": 2518,
+      "late_count_2020_2025": 1597,
+      "early_rate_per_year": 314.8,
+      "late_rate_per_year": 266.2,
+      "pct_change": -15.4
+    },
+    {
+      "biome": "Forests",
+      "area_sqkm": 653.7231980077743,
+      "ignition_count": 29,
+      "severity_mean": 1.4710422568225343,
+      "early_count_2012_2019": 19,
+      "late_count_2020_2025": 7,
+      "early_rate_per_year": 2.4,
+      "late_rate_per_year": 1.2,
+      "pct_change": -50.9
+    },
+    {
+      "biome": "Albany Thicket",
+      "area_sqkm": 3432.1367727473903,
+      "ignition_count": 98,
+      "severity_mean": 1.4137613952174444,
+      "early_count_2012_2019": 64,
+      "late_count_2020_2025": 31,
+      "early_rate_per_year": 8.0,
+      "late_rate_per_year": 5.2,
+      "pct_change": -35.4
+    },
+    {
+      "biome": "Azonal Vegetation",
+      "area_sqkm": 4668.255565399567,
+      "ignition_count": 77,
+      "severity_mean": 1.338205581895568,
+      "early_count_2012_2019": 51,
+      "late_count_2020_2025": 25,
+      "early_rate_per_year": 6.4,
+      "late_rate_per_year": 4.2,
+      "pct_change": -34.6
+    }
+  ]
+}
