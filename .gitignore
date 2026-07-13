@@ -48,3 +48,8 @@ Thumbs.db
 *.mov
 *.wmv
 
+
+# Data files over Bitbucket's 100 MB per-file push limit - distributed via OneDrive instead
+Data/bioregions.gpkg
+Data/fire_events_clean.gpkg
+Data/output_SRTMGL3_slope.tif
